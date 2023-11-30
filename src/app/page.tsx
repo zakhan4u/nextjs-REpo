@@ -6,6 +6,6 @@ export default  function myFunction (){
   return  <Fragment>
     <h1> hello this is the new topic now 
     </h1>
-    <MyButton/>
+
   </Fragment>
 }
