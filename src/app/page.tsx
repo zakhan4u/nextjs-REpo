@@ -1,6 +1,6 @@
 'use client'
 import { Fragment } from "react"
-import { MyButton } from "./components/button"
+// import { MyButton } from "./components/button"
 
 export default  function myFunction (){
   return  <Fragment>
